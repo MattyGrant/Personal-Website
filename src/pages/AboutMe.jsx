@@ -25,7 +25,7 @@ const AboutMe = () => {
                 </div>
 
                 {/* shadow-lg my-1 mx-auto w-full max-w-[350px] md:m-0 md:relative md:left-[23.5rem] md:w-[45%] md:bottom-[20rem] lg:left-[35rem] lg:bottom-[15rem] xl:bottom-[18rem] 2xl:bottom-[16rem] 2xl:left-[47rem] */}
-                <img src="/src/assets/Nature.jpg" alt="" className=" md:relative  md:z-10 shadow-xl md:col-start-2 md:col-end-2 md:row-start-1 md:row-end-4 md:min-w-[225px]"/>
+                <img src="/Nature.jpg" alt="" className=" md:relative  md:z-10 shadow-xl md:col-start-2 md:col-end-2 md:row-start-1 md:row-end-4 md:min-w-[225px]"/>
 
             </div>
                                     {/* text-primaryText */}

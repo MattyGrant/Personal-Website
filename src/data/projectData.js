@@ -1,7 +1,7 @@
 const projectData = [
 	{
 		id: 1,
-		img: './src/assets/project-thumbnail_Blog.jpg',
+		img: '/project-thumbnail_Blog.jpg',
 		title: 'Blog Site',
 		url: 'https://blog-mock-funtimes.netlify.app/',
 		repo: 'https://github.com/MattyGrant/Blog_Site_Mock',
@@ -11,7 +11,7 @@ const projectData = [
 	},
 	{
 		id: 2,
-		img: '/src/assets/project-thumbnail_HeroLP.jpg',
+		img: '/project-thumbnail_HeroLP.jpg',
 		title: 'Landing Page',
 		url: 'https://tailwind-landing-page-funtimes.netlify.app/',
 		repo: 'https://github.com/MattyGrant/Tailwind_Landing_Page',
@@ -21,7 +21,7 @@ const projectData = [
 	},
 	{
 		id: 3,
-		img: '/src/assets/Project-Thumbnail_Tindog.jpg',
+		img: '/Project-Thumbnail_Tindog.jpg',
 		title: 'Tindog',
 		url: 'https://tindog-funtimes.netlify.app/',
 		repo: 'https://github.com/MattyGrant/Tindog',
@@ -31,7 +31,7 @@ const projectData = [
 	},
 	{
 		id: 4,
-		img: '/src/assets/Project-Thumbnail_Twimba.png',
+		img: '/Project-Thumbnail_Twimba.png',
 		title: 'Twimba',
 		url: 'https://cloning-funtimes.netlify.app/',
 		repo: 'https://github.com/MattyGrant/Twitter_Tweet_Clone',

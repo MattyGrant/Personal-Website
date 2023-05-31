@@ -17,7 +17,7 @@ const Intro = () => {
             </p>
 
                                                                             {/* mt-4 w-full md:max-w-sm md:relative md:left-5 md:bottom-28 lg:left-5 shadow-lg */}
-            <img src="src/assets/self-portrait_fix2.jpg" alt="" className=" shadow-lg md:relative md:z-10 md:col-start-1 md:col-end-1 md:row-start-1 md:row-end-3 sm:min-w-[375px] xl:min-w-[425px]"/>
+            <img src="/self-portrait_fix2.jpg" alt="" className=" shadow-lg md:relative md:z-10 md:col-start-1 md:col-end-1 md:row-start-1 md:row-end-3 sm:min-w-[375px] xl:min-w-[425px]"/>
 
         </section>
 
