@@ -5,8 +5,8 @@ export default {
 		extend: {
 			colors: {
 				// Dark version -
-				primaryText: '#c6c6c6',
-				secondaryText: '#bfbfbfx',
+				primaryText:'#e2e8f0',
+				secondaryText: '#cbd5e1',
 				primaryBg: '#253242',
 				secondaryBg: '#1A2532',
 				primaryBtn: '#3f9790',
