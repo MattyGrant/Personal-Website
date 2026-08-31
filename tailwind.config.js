@@ -6,15 +6,16 @@ export default {
 			colors: {
 				// Dark version -
 				primaryText: '#c6c6c6',
-				secondaryText: '#6B7280',
-				primaryBg: '#141e30',
+				secondaryText: '#bfbfbfx',
+				primaryBg: '#253242',
+				secondaryBg: '#1A2532',
 				primaryBtn: '#3f9790',
 				secondaryBtn: '#f4fafa',
 				header: '#070b12',
 				lightOpaque: '#3f979026',
 				mediumOpaque: '#00000031',
 				darkOpaque: '#00000097',
-				accent: '#38857f',
+				accent: '#3F9790',
 				// light Version -
 				// primaryText: '#141613',
 				// primaryBg: '#ececec',

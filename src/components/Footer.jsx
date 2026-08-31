@@ -1,11 +1,11 @@
 import { Linkedin, GitHub} from "react-feather"
 const Footer = () => (
                                                         // bg-primaryBtn
-    <section className=" 2xl:px-32 bg-darkOpaque shadow-mediumOpaque shadow-2xl" id="footer">
+    <section className=" 2xl:px-32 bg-secondaryBg shadow-mediumOpaque shadow-2xl" id="footer">
 
         <div className="flex-col text-center p-12 mt-20 md:p-8 2xl:p-16">
                                                     {/* text-primaryBg hover:text-accent */}
-            <button className="text-2xl font-medium text-primaryText hover:text-accent hover:font-semibold">mrsenormatty@live.com</button>
+            <a href="mailto:mrsenormatty@live.com" className="text-xl font-medium text-primaryText hover:text-accent hover:font-semibold">mrsenormatty@live.com</a>
                                 {/* text-primaryBg */}
             <div className=" text-primaryText  text-center mt-10 border-b-4 border-b-accent  md:flex md:justify-between">
 
@@ -26,7 +26,7 @@ const Footer = () => (
                 </div>
             </div>
                             {/* text-primaryBg */}
-            <p className=" text-primaryText opacity-[30%] text-sm 2xl:text-md mt-4">&copy;Copyright 2023. Made by Matthew Gonzalez</p>
+            <p className=" text-primaryText opacity-[30%] text-sm 2xl:text-md mt-4">&copy; 2026 Matthew Gonzalez. Rights Reserved.</p>
             <p className=" text-primaryText opacity-[15%] text-sm"> Powered by React / Tailwind / Vite</p>
 
         </div>
