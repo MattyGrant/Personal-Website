@@ -14,7 +14,7 @@ const Projects = () => {
             </div>
 
             <h1 className="text-3xl text-secondaryText mt-20 mb-10 font-semibold md:p-10 md:mb-0 text-center " id="projects">Technology Experience</h1>
-            <div className="flex flex-col items-start justify-start w-[45%] mx-auto py-10 px-10 gap-4 rounded-xl bg-secondaryBg bg-opacity-60 xl:w-1/2">
+            <div className="flex flex-col items-start justify-start w-[90%] mx-auto py-10 px-10 gap-4 rounded-xl bg-secondaryBg bg-opacity-60 xl:w-1/2">
                 <h3 className="text-2xl text-primaryText font-semibold">Web Development</h3>
                 <p className="text-lg text-slate-300">Multiple combined years of both personal and professional experience building applications using modern web development technologies:</p>
                 <div className="flex flex-row gap-4 flex-wrap">
